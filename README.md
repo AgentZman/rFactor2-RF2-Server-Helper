@@ -1,7 +1,9 @@
-# rFactor2-RF2-Server-Helper
-rFactor2 Server Helper
+# rFactor2 RF2 Server Helper
+To install and manage RF2 Server
+(Linux or Windows) Uses Python and Tkinter
 
-Windows or Linux GUI for rFactor2 Dedicated Server
+Windows Notes: Will Requires Python installation. 
+Linux Notes: Most Distros Include Python by default. 
 
 Main Features
 -Install and Update SteamCMD and rFactor2 Dedicated Server
