@@ -13,8 +13,6 @@ print(myOS," System")
 
 # Status / Working Notes:
 # need to work on outputs to gui and user insteraction instead of terminal window
-# also need sudo apt-get install winbind feature.
-
 
 #Get home/user directory and create working directories for referencing
 os.chdir(os.path.expanduser("~")) 
