@@ -2,7 +2,7 @@
 To install and manage RF2 Server
 (Linux or Windows) Uses Python and Tkinter
 
-Windows Notes: Will Requires Python installation\n 
+Windows Notes: Will Requires Python installation 
 Linux Notes: Most Distros Include Python by default. 
 
 Main Features
