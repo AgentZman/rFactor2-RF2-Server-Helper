@@ -1,4 +1,4 @@
-# rFactor2 RF2 Server Helper
+# RF2 Server Helper (rFactor2 Dedicated Server)
 To install and manage RF2 Server
 (Linux or Windows) Uses Python and Tkinter
 
