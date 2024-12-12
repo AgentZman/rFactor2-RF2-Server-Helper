@@ -20,4 +20,4 @@ Linux Features<br>
 -Install WINE and WINBIND (distro version) Button as needed<br>
 -Check WINE VERSION Button <br>
 -Fix WINE registry sShortDate Button<br>
-**-AND all Main Features listed above for managing the rFactor2 Server on Linux**<br>
+**-AND all Main Features listed above for managing the rFactor2 Server on Linux or Windows**<br>
