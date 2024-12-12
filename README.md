@@ -8,10 +8,10 @@ Linux Notes: Most Distros Include Python by default.
 Main Features
 -Install and Update SteamCMD and rFactor2 Dedicated Server
 -Per rFactor2 Guide will install to Racing/SteamCMD
--Download Workshop Content
+-Download Workshop Content(Easy Workshop ID extraction from Full URL for easy copy paste)
 -Transfer Workshop Content to rFactor2 Server Packages
 -Shorcuts Provided Server Management tools Mod Manager, MAS2 Utility
--Shortcut Profided rFactor2 Server
+-Shortcut Provided rFactor2 Server
 
 Linux Features
 -Checks for AMD64, and i386 Architectures required for SteamCMD and rFactor2 Server
